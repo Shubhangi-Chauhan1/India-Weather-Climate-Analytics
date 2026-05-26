@@ -1231,7 +1231,7 @@ If you discover a security vulnerability in this project, please report it respo
 
 ---
 
-*Made with ❤️ and a deep curiosity about India's climate | 2025*
+*Made with ❤️ and a deep curiosity about India's climate | 2026*
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
